@@ -1,0 +1,14 @@
+{
+  "Parent": "Default",
+  "World": {
+    "AllowBlockBreaking": true,
+    "AllowBlockGathering": false,
+    "AllowBlockPlacement": false
+  },
+  "Death": {
+    "LoseItems": false,
+    "RespawnController": {
+      "Type": "ExitInstance"
+    }
+  }
+}

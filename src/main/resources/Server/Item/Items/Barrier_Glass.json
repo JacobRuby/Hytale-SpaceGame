@@ -1,0 +1,42 @@
+{
+  "TranslationProperties": {
+    "Name": "server.items.Barrier_Glass.name",
+    "Description": "server.items.Barrier_Glass.description"
+  },
+  "BlockType": {
+    "Material": "Solid",
+    "DrawType": "Cube",
+    "Opacity": "Transparent",
+    "Textures": [
+      {
+        "All": "BlockTextures/Editor_Empty.png"
+      }
+    ],
+    "CubeShadingMode": "Standard",
+    "RequiresAlphaBlending": true,
+    "Interactions": {
+      "Use": {
+        "Interactions": [
+          {
+            "Type": "ApplyForce",
+            "Forces": [
+              {
+                "Force": 1,
+                "Direction": {
+                  "Y": 1
+                }
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "Categories": [
+    "Tool.PrefabEditing"
+  ],
+  "SubCategory": "PrefabBlocks",
+  "Quality": "Technical",
+  "PlayerAnimationsId": "Block",
+  "Icon": "Icons/ItemsGenerated/Editor_Empty.png"
+}

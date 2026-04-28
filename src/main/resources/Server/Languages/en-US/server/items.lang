@@ -1,0 +1,12 @@
+Resource_Fuel.name=Raw Fuel
+Resource_Fuel.description=Raw fuel mineral. Capable of powering your ship once refined.
+Resource_Scrap.name=Raw Scrap
+Resource_Scrap.description=The most basic material used in all forms of intergalatic construction.
+Resource_Electronic.name=Raw Electronic
+Resource_Electronic.description=A unique mixture of stones and minerals capable of conducting electricity used in crafting special tools and upgrades.
+Resource_Gemstone.name=Gemstone
+Resource_Gemstone.description=Valuable stones used in precision crafting. Use these to upgrade your tools.
+Resource_Organic.name=Organic
+Resource_Organic.description=A conglomeration of crystalized plant life used for various means. Warning: DO NOT EAT RAW.
+Barrier_Glass.name=Barrier Glass
+Barrier_Glass.description=Unbreakable see-through block used to block off areas.
